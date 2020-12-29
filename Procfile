@@ -1,1 +1,1 @@
-web: gunicorn app:max_app 
+web: gunicorn app:app
